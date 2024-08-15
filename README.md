@@ -60,4 +60,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kuldeepc18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+<h2 align="left">🐍 My Contributions 🐍</h2><br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kuldeepc18/kuldeepc18/output/github-contribution-grid-snake.svg" />
+
+
 ---
