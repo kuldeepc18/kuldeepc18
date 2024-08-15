@@ -28,7 +28,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kuldeepc18&theme=radical&hide_border=false)<br/>
 
 
-
+![Snake animation](https://github.com/kuldeepc18/kuldeepc18/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
