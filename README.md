@@ -1,6 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/44957fe9724cc8b36fc1a11e104bc080618ff645d73746a66a6b44d73d7992f1/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)](kuldeepc18)
-
-
 [![](https://visitcount.itsvg.in/api?id=kuldeepc18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">
