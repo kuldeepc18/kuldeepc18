@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on portfolio website<br>🌱 I’m currently learning ReactJs
+🔭 I’m currently working on portfolio website<br>🌱 I’m currently doing Backend Development
 
 
 ## 🌐 Socials:
